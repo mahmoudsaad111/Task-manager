@@ -1,7 +1,7 @@
 # Task-manager
-It is task manager project in which you cand add or remove or edit your task and also save task in database
+Website to help users to schedule thier tasks by adding tasks ,delete tasks,edit task,save tasks.
 
-backend tecknologies :
+backend tecknologies used :
 
 Node JS
 
